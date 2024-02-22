@@ -1,36 +1,65 @@
 <div align="center">
-
-<!-- TODO: add link to website once it is ready -->
-<h1>KSA</h1>
-
+    <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+  <h1 align="center">KSA: Your Key to Effortless Tax Compliance in Saudi Arabia</h1>
+  <p align="center">
+    Streamlining business operations with regional tax compliance for Saudi Arabia.
+    <br />
+    <a href="https://empress.eco/"><strong>Explore the App »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/empress-eco/saudi_arabia_vat/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/empress-eco/saudi_arabia_vat/issues">Request Feature</a>
+  </p>
 </div>
 
+## About KSA
 
-## Introduction
+KSA is a robust application designed to enhance Empress software by integrating regional tax compliance features for businesses operating in Saudi Arabia. It provides an efficient and intuitive way to navigate local tax laws and regulations, significantly reducing the risk of non-compliance and freeing up valuable time.
 
-  KSA is an app that enhances the default ERPNext software by adding regional tax compliance for Saudi Arabia. This app makes it easier for businesses operating in Saudi Arabia to comply with local tax laws and regulations, saving time and reducing the risk of non-compliance.
-    
-    
-## What's Included
-   Here is a list of features that are included with the software.
-- Tax Templates(VAT 5%, VAT 15%, VAT 50% etc)
-- Default Tax Accounts settings for company(KSA VAT SETTING)
-- QR Generation (Phase I of E-invoice Compliance)
-- Print Formats (To Print QR on Invoice)
-- Report (VAT Report)
+### Key Features
 
-## Note 
-   This app was included as a part of ERPNext upto Version 14. We have separated this app out of ERPNext to improve modulatiry. This ensures that users will only have code that is required. 
+- Tailored Tax Templates (VAT 5%, VAT 15%, VAT 50%, and more)
+- Default Tax Account settings for the company (KSA VAT SETTING)
+- QR Generation for E-invoice Compliance
+- Customizable Print Formats for QR on Invoice
+- Comprehensive VAT Reports
 
-## Note 
-   Tested compatibility with ERPNext Version 15 . If you face any issue with this app, please contact support@ERPGulf.com
+This application is built on the robust and versatile foundation of Empress, a global, leading open-source ERP software.
 
-   For Phase-2 implementation of Zatca- please use our app https://github.com/ERPGulf/saudi-phase2-api
+## Technical Stack and Setup Instructions
 
-   Please Visit our website for regular update https://www.erpgulf.com/
+### Prerequisites
 
+The app is tested for compatibility with Empress Version 15. Contact support@ERPGulf.com for any issues.
 
-## License 
-   MIT
-   Courtesy:
-   forked from AhmadPak & 8848Digital
+### Installation
+
+Clone the repository using the following command:
+
+```sh
+git clone https://github.com/empress-eco/saudi_arabia_vat.git
+```
+Further installation instructions are provided within the repository.
+
+## Usage
+
+KSA offers a user-friendly interface with clear instructions and intuitive design. Refer to the detailed [documentation](https://grow.empress.eco/) available on our website for further guidance.
+
+## Contribution Guidelines
+
+We welcome and appreciate your contributions! Here's how you can help us improve:
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
+
+## License and Acknowledgements
+
+This project is under the MIT License. Your contributions are also licensed under the MIT License.
+
+We extend our heartfelt gratitude to the Empress Community, whose innovative and dedicated work on the essential tools that power this project has been instrumental to our success. We also wish to acknowledge the valuable contributions of AhmadPak & 8848Digital to this project.
+
+For more information, visit our [GitHub](https://github.com/empress-eco/) or [website](https://www.erpgulf.com/).
